@@ -54,8 +54,11 @@
 .exercice-6 .container {
   display: flex;
   flex-wrap: wrap-reverse;
-  align-items: baseline;
   align-content: space-between;
+}
+
+.exercice-6 .element {
+  flex-grow: 1;
 }
 
 /* 7. exercice-7 */
