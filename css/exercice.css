@@ -51,6 +51,12 @@
 }
 
 /* 6. exercice-6 */
+.exercice-6 .container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  align-items: baseline;
+  align-content: space-between;
+}
 
 /* 7. exercice-7 */
 
