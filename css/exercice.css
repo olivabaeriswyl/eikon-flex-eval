@@ -91,9 +91,13 @@
 /* 9. exercice-9 */
 .exercice-9 .container {
   display: flex;
-  flex-direction: row-reverse;
   flex-wrap: wrap;
   align-items: baseline;
+}
+
+.exercice-9 .element {
+  width: 50%;
+  box-sizing: border-box;
 }
 
 /* 10. exercice-10 */
@@ -103,3 +107,4 @@
   justify-content: center;
   align-items: center;
 }
+
