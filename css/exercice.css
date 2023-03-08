@@ -94,4 +94,9 @@
 }
 
 /* 10. exercice-10 */
-
+.exercice-10 .container {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  align-items: center;
+}
